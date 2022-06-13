@@ -1,0 +1,6 @@
+{ "provincias": [
+{"id":"01", "name": "Santiago"},
+{"id":"02", "name": "Vina del mar"},
+{"id":"03", "name": "Bio bio"}
+]
+}
